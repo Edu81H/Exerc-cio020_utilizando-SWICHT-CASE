@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercício020_utilizando SWICHT CASE", "Exercício020_utilizando SWICHT CASE\Exercício020_utilizando SWICHT CASE.vcxproj", "{EE78CDDE-F7A0-41DD-B768-FE5BCCB70ED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE78CDDE-F7A0-41DD-B768-FE5BCCB70ED1}.Debug|x64.ActiveCfg = Debug|x64
+		{EE78CDDE-F7A0-41DD-B768-FE5BCCB70ED1}.Debug|x64.Build.0 = Debug|x64
+		{EE78CDDE-F7A0-41DD-B768-FE5BCCB70ED1}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE78CDDE-F7A0-41DD-B768-FE5BCCB70ED1}.Debug|x86.Build.0 = Debug|Win32
+		{EE78CDDE-F7A0-41DD-B768-FE5BCCB70ED1}.Release|x64.ActiveCfg = Release|x64
+		{EE78CDDE-F7A0-41DD-B768-FE5BCCB70ED1}.Release|x64.Build.0 = Release|x64
+		{EE78CDDE-F7A0-41DD-B768-FE5BCCB70ED1}.Release|x86.ActiveCfg = Release|Win32
+		{EE78CDDE-F7A0-41DD-B768-FE5BCCB70ED1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81211031-0066-491A-9A24-9D53872E23FC}
+	EndGlobalSection
+EndGlobal
